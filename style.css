@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    }
+    .contact{
+        background-color: black;
+        color: white;
+    }
+*{
+    box-sizing: border-box;
+}
